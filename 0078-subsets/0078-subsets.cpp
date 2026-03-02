@@ -1,30 +1,32 @@
 class Solution {
 public:
 
-
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-        
-        int n=nums.size();
-        int subset=(1<<n);
-
-        for(int i=0;i<subset;i++)
+    void func(vector<vector<int>> &ans, int ind, vector<int>& nums, 
+              vector<int>& arr, int n)
+    {
+        if(ind >= n)
         {
-            vector<int> nums1;
-
-            for(int j=0;j<n;j++)
-            {
-                if(i&(1<<j))
-                {
-                    nums1.push_back(nums[n-j-1]);
-                }
-                
-            }
-
-            ans.push_back(nums1);
+            ans.push_back(arr);
+            return;
         }
 
+        // Take element
+        arr.push_back(nums[ind]);
+        func(ans, ind+1, nums, arr, n);
 
-        return ans;
+        // Not take element
+        arr.pop_back();
+        func(ans, ind+1, nums, arr, n);
+    }    
+    
+    vector<vector<int>> subsets(vector<int>& nums) {
+       
+       int n = nums.size();   
+       vector<vector<int>> ans;
+       vector<int> arr;
+
+       func(ans, 0, nums, arr, n);
+
+       return ans;
     }
 };
