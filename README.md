@@ -7,6 +7,7 @@ to track my dsa solving
 |  |
 | ------- |
 | [0078-subsets](https://github.com/reeganferdinand/leetcode/tree/master/0078-subsets) |
+| [0461-hamming-distance](https://github.com/reeganferdinand/leetcode/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/reeganferdinand/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Array
 |  |
