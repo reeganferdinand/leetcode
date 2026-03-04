@@ -12,6 +12,7 @@ to track my dsa solving
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/reeganferdinand/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/reeganferdinand/leetcode/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/reeganferdinand/leetcode/tree/master/0078-subsets) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/reeganferdinand/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -38,5 +39,6 @@ to track my dsa solving
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/reeganferdinand/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/reeganferdinand/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
