@@ -24,6 +24,7 @@ to track my dsa solving
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/reeganferdinand/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/reeganferdinand/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Recursion
 |  |
 | ------- |
