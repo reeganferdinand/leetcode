@@ -15,6 +15,7 @@ to track my dsa solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/reeganferdinand/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/reeganferdinand/leetcode/tree/master/0027-remove-element) |
 | [0078-subsets](https://github.com/reeganferdinand/leetcode/tree/master/0078-subsets) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/reeganferdinand/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Backtracking
@@ -43,6 +44,7 @@ to track my dsa solving
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/reeganferdinand/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/reeganferdinand/leetcode/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,4 +61,8 @@ to track my dsa solving
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
