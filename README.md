@@ -22,10 +22,12 @@ to track my dsa solving
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/reeganferdinand/leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/reeganferdinand/leetcode/tree/master/0078-subsets) |
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/reeganferdinand/leetcode/tree/master/0022-generate-parentheses) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/reeganferdinand/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/reeganferdinand/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Recursion
@@ -74,6 +76,7 @@ to track my dsa solving
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/reeganferdinand/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/reeganferdinand/leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
