@@ -36,6 +36,7 @@ to track my dsa solving
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/reeganferdinand/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -51,6 +52,7 @@ to track my dsa solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/reeganferdinand/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/reeganferdinand/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/reeganferdinand/leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -94,5 +96,10 @@ to track my dsa solving
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
