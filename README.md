@@ -36,6 +36,7 @@ to track my dsa solving
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/reeganferdinand/leetcode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/reeganferdinand/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
@@ -80,6 +81,7 @@ to track my dsa solving
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/reeganferdinand/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/reeganferdinand/leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -97,6 +99,7 @@ to track my dsa solving
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/reeganferdinand/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/reeganferdinand/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0234-palindrome-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0876-middle-of-the-linked-list) |
