@@ -14,6 +14,7 @@ to track my dsa solving
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/reeganferdinand/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/reeganferdinand/leetcode/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/reeganferdinand/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/reeganferdinand/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/reeganferdinand/leetcode/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -26,6 +27,7 @@ to track my dsa solving
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/reeganferdinand/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/reeganferdinand/leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/reeganferdinand/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/reeganferdinand/leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/reeganferdinand/leetcode/tree/master/0078-subsets) |
 ## String
