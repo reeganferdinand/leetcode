@@ -20,6 +20,7 @@ to track my dsa solving
 | [0078-subsets](https://github.com/reeganferdinand/leetcode/tree/master/0078-subsets) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/reeganferdinand/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/reeganferdinand/leetcode/tree/master/0283-move-zeroes) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/reeganferdinand/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3862-find-the-smallest-balanced-index](https://github.com/reeganferdinand/leetcode/tree/master/3862-find-the-smallest-balanced-index) |
@@ -60,6 +61,7 @@ to track my dsa solving
 | [0026-remove-duplicates-from-sorted-array](https://github.com/reeganferdinand/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/reeganferdinand/leetcode/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/reeganferdinand/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/reeganferdinand/leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -89,6 +91,7 @@ to track my dsa solving
 | ------- |
 | [0002-add-two-numbers](https://github.com/reeganferdinand/leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/reeganferdinand/leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/reeganferdinand/leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
