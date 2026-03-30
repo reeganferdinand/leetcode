@@ -40,6 +40,7 @@ to track my dsa solving
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/reeganferdinand/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/reeganferdinand/leetcode/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/reeganferdinand/leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/reeganferdinand/leetcode/tree/master/0392-is-subsequence) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/reeganferdinand/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/reeganferdinand/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
