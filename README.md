@@ -18,6 +18,7 @@ to track my dsa solving
 | [0040-combination-sum-ii](https://github.com/reeganferdinand/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/reeganferdinand/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/reeganferdinand/leetcode/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/reeganferdinand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/reeganferdinand/leetcode/tree/master/0189-rotate-array) |
@@ -99,6 +100,7 @@ to track my dsa solving
 | ------- |
 | [0022-generate-parentheses](https://github.com/reeganferdinand/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/reeganferdinand/leetcode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/reeganferdinand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/reeganferdinand/leetcode/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
