@@ -1,36 +1,34 @@
 class Solution {
 public:
     
-    void func(vector<vector<int>> &ans,vector<int> &arr,int i,vector<int> &nums,int t)
+    void func(int i,vector<vector<int>> &ans,vector<int> &arr,vector<int> nums,int target)
     {
-        if(i==nums.size()) return;
-        
-        if(t==0)
+        if(target==0)
         {
             ans.push_back(arr);
             return;
         }
+        if(i==nums.size()) return;
 
-       if(nums[i]<=t) 
-       {
-        arr.push_back(nums[i]);
-        t=t-nums[i];
-        func(ans,arr,i,nums,t);
-        t+=nums[i];
-        arr.pop_back();
-       }
+       if (nums[i] <= target)
+        {
+            arr.push_back(nums[i]);
+            func(i, ans, arr, nums, target - nums[i]);
+            arr.pop_back();
+        }
 
-       
+        // Not pick
+        func(i + 1, ans, arr, nums, target);
 
-       func(ans,arr,i+1,nums,t);
     }
     
     
-    vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+    
+    vector<vector<int>> combinationSum(vector<int>& nums, int target) {
         vector<int> arr;
         vector<vector<int>> ans;
 
-        func(ans,arr,0,candidates,target);
+        func(0,ans,arr,nums,target);
 
         return ans;
     }
