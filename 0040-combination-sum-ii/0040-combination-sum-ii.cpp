@@ -1,40 +1,34 @@
 class Solution {
 public:
     
-    void solve(int index, vector<int>& candidates, int target, 
-               vector<int>& temp, vector<vector<int>>& ans)
+    void func(int i,vector<vector<int>> &ans,vector<int> &arr,vector<int> nums,long long  target)
     {
-        if(target == 0)
+        if(target==0)
         {
-            ans.push_back(temp);
+            ans.push_back(arr);
             return;
         }
-
-        for(int i = index; i < candidates.size(); i++)
-        {
-            // skip duplicates
-            if(i > index && candidates[i] == candidates[i-1])
-                continue;
-
-            if(candidates[i] > target)
-                break;
-
-            temp.push_back(candidates[i]);
-
-            solve(i+1, candidates, target - candidates[i], temp, ans);
-
-            temp.pop_back();
-        }
-    }
-
-    vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
         
+
+       for(int j=i;j<nums.size();j++)
+       {
+            if(j>i && nums[j]==nums[j-1]) continue;
+            if(target<nums[j]) break;
+            arr.push_back(nums[j]);
+            func(j+1,ans,arr,nums,target-nums[j]);
+            arr.pop_back();
+       }
+
+
+    }
+    
+    
+    
+    vector<vector<int>> combinationSum2(vector<int>& nums, int target) {
+        vector<int> arr;
         vector<vector<int>> ans;
-        vector<int> temp;
-
-        sort(candidates.begin(), candidates.end());
-
-        solve(0, candidates, target, temp, ans);
+        sort(nums.begin(),nums.end());
+        func(0,ans,arr,nums,target);
 
         return ans;
     }
