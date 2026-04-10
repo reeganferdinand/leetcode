@@ -1,17 +1,18 @@
 class Solution {
 public:
     
-    void func(vector<vector<int>> &ans,vector<int> &arr,int i,int n,vector<int> &nums)
+    void func(int i,vector<vector<int>> &ans,vector<int> &arr,vector<int> nums,int n)
     {
         if(i==n)
         {
             ans.push_back(arr);
             return;
         }
+
         arr.push_back(nums[i]);
-        func(ans,arr,i+1,n,nums);
+        func(i+1,ans,arr,nums,n);
         arr.pop_back();
-        func(ans,arr,i+1,n,nums);
+        func(i+1,ans,arr,nums,n);
     }
     
     vector<vector<int>> subsets(vector<int>& nums) {
@@ -19,7 +20,7 @@ public:
        vector<vector<int>> ans;
         int n=nums.size();
        vector<int> arr;
-       func(ans,arr,0,n,nums);
+       func(0,ans,arr,nums,n);
 
        return ans;
     }
