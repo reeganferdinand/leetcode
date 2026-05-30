@@ -21,18 +21,22 @@ public:
         return 1+max(l,r);
     }
 
-    
+     int maxi=0;
     int diameterOfBinaryTree(TreeNode* root) {
-    if(root==nullptr) return 0;
+        if(root==nullptr) return 0;
 
-    int l = lh(root->left);
-    int r = lh(root->right);
+        int l=lh(root->left);
+        int r=lh(root->right);
 
-    int curr = l + r;
+       
 
-    int leftDia = diameterOfBinaryTree(root->left);
-    int rightDia = diameterOfBinaryTree(root->right);
+        maxi=max(maxi,l+r);
 
-    return max(curr, max(leftDia, rightDia));
+        diameterOfBinaryTree(root->left);
+        diameterOfBinaryTree(root->right);
+
+
+        return maxi;
+
     }
 };
