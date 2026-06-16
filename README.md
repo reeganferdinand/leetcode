@@ -24,6 +24,7 @@ to track my dsa solving
 | [0189-rotate-array](https://github.com/reeganferdinand/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/reeganferdinand/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/reeganferdinand/leetcode/tree/master/0283-move-zeroes) |
+| [0739-daily-temperatures](https://github.com/reeganferdinand/leetcode/tree/master/0739-daily-temperatures) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/reeganferdinand/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3862-find-the-smallest-balanced-index](https://github.com/reeganferdinand/leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Backtracking
@@ -133,6 +134,7 @@ to track my dsa solving
 | [0145-binary-tree-postorder-traversal](https://github.com/reeganferdinand/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/reeganferdinand/leetcode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/reeganferdinand/leetcode/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,4 +210,5 @@ to track my dsa solving
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/reeganferdinand/leetcode/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/reeganferdinand/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
