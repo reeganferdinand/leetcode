@@ -42,6 +42,7 @@ to track my dsa solving
 | [0022-generate-parentheses](https://github.com/reeganferdinand/leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/reeganferdinand/leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/reeganferdinand/leetcode/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/reeganferdinand/leetcode/tree/master/0402-remove-k-digits) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/reeganferdinand/leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/reeganferdinand/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 ## Recursion
@@ -131,6 +132,7 @@ to track my dsa solving
 | [0144-binary-tree-preorder-traversal](https://github.com/reeganferdinand/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/reeganferdinand/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/reeganferdinand/leetcode/tree/master/0402-remove-k-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,4 +200,12 @@ to track my dsa solving
 | [0199-binary-tree-right-side-view](https://github.com/reeganferdinand/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/reeganferdinand/leetcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/reeganferdinand/leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
