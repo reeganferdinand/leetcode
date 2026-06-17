@@ -24,6 +24,7 @@ to track my dsa solving
 | [0189-rotate-array](https://github.com/reeganferdinand/leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/reeganferdinand/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/reeganferdinand/leetcode/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/reeganferdinand/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/reeganferdinand/leetcode/tree/master/0739-daily-temperatures) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/reeganferdinand/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3862-find-the-smallest-balanced-index](https://github.com/reeganferdinand/leetcode/tree/master/3862-find-the-smallest-balanced-index) |
@@ -77,6 +78,7 @@ to track my dsa solving
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/reeganferdinand/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/reeganferdinand/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -118,6 +120,7 @@ to track my dsa solving
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/reeganferdinand/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/reeganferdinand/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3862-find-the-smallest-balanced-index](https://github.com/reeganferdinand/leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Linked List
 |  |
