@@ -27,6 +27,7 @@ to track my dsa solving
 | [0209-minimum-size-subarray-sum](https://github.com/reeganferdinand/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/reeganferdinand/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/reeganferdinand/leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/reeganferdinand/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/reeganferdinand/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/reeganferdinand/leetcode/tree/master/0739-daily-temperatures) |
@@ -86,6 +87,7 @@ to track my dsa solving
 | [0049-group-anagrams](https://github.com/reeganferdinand/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/reeganferdinand/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/reeganferdinand/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/reeganferdinand/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -94,17 +96,20 @@ to track my dsa solving
 | ------- |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/reeganferdinand/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/reeganferdinand/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/reeganferdinand/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -236,9 +241,15 @@ to track my dsa solving
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/reeganferdinand/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/reeganferdinand/leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/reeganferdinand/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
