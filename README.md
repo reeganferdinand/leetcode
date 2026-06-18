@@ -30,6 +30,7 @@ to track my dsa solving
 | [0496-next-greater-element-i](https://github.com/reeganferdinand/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/reeganferdinand/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/reeganferdinand/leetcode/tree/master/0739-daily-temperatures) |
+| [1046-last-stone-weight](https://github.com/reeganferdinand/leetcode/tree/master/1046-last-stone-weight) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/reeganferdinand/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [3862-find-the-smallest-balanced-index](https://github.com/reeganferdinand/leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Backtracking
@@ -235,6 +236,7 @@ to track my dsa solving
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/reeganferdinand/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/reeganferdinand/leetcode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
