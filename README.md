@@ -17,6 +17,7 @@ to track my dsa solving
 | [0039-combination-sum](https://github.com/reeganferdinand/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/reeganferdinand/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/reeganferdinand/leetcode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/reeganferdinand/leetcode/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/reeganferdinand/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reeganferdinand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/reeganferdinand/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -44,6 +45,7 @@ to track my dsa solving
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/reeganferdinand/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/reeganferdinand/leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/reeganferdinand/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/reeganferdinand/leetcode/tree/master/0058-length-of-last-word) |
 | [0392-is-subsequence](https://github.com/reeganferdinand/leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/reeganferdinand/leetcode/tree/master/0402-remove-k-digits) |
@@ -79,6 +81,7 @@ to track my dsa solving
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/reeganferdinand/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/reeganferdinand/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/reeganferdinand/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/reeganferdinand/leetcode/tree/master/0496-next-greater-element-i) |
@@ -91,6 +94,7 @@ to track my dsa solving
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/reeganferdinand/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Counting
