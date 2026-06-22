@@ -34,6 +34,7 @@ to track my dsa solving
 | [0973-k-closest-points-to-origin](https://github.com/reeganferdinand/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/reeganferdinand/leetcode/tree/master/1046-last-stone-weight) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/reeganferdinand/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1834-single-threaded-cpu](https://github.com/reeganferdinand/leetcode/tree/master/1834-single-threaded-cpu) |
 | [3862-find-the-smallest-balanced-index](https://github.com/reeganferdinand/leetcode/tree/master/3862-find-the-smallest-balanced-index) |
 ## Backtracking
 |  |
@@ -117,6 +118,7 @@ to track my dsa solving
 | [0767-reorganize-string](https://github.com/reeganferdinand/leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/reeganferdinand/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1834-single-threaded-cpu](https://github.com/reeganferdinand/leetcode/tree/master/1834-single-threaded-cpu) |
 ## Counting
 |  |
 | ------- |
@@ -265,6 +267,7 @@ to track my dsa solving
 | [0767-reorganize-string](https://github.com/reeganferdinand/leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/reeganferdinand/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/reeganferdinand/leetcode/tree/master/1046-last-stone-weight) |
+| [1834-single-threaded-cpu](https://github.com/reeganferdinand/leetcode/tree/master/1834-single-threaded-cpu) |
 ## Quickselect
 |  |
 | ------- |
