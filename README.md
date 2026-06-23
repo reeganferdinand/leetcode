@@ -20,6 +20,7 @@ to track my dsa solving
 | [0040-combination-sum-ii](https://github.com/reeganferdinand/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/reeganferdinand/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/reeganferdinand/leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/reeganferdinand/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/reeganferdinand/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reeganferdinand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/reeganferdinand/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -74,6 +75,7 @@ to track my dsa solving
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/reeganferdinand/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/reeganferdinand/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
@@ -134,6 +136,7 @@ to track my dsa solving
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/reeganferdinand/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/reeganferdinand/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/reeganferdinand/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/reeganferdinand/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/reeganferdinand/leetcode/tree/master/0704-binary-search) |
