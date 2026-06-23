@@ -30,6 +30,7 @@ to track my dsa solving
 | [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/reeganferdinand/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/reeganferdinand/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/reeganferdinand/leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/reeganferdinand/leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/reeganferdinand/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/reeganferdinand/leetcode/tree/master/1046-last-stone-weight) |
@@ -131,6 +132,7 @@ to track my dsa solving
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/reeganferdinand/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/reeganferdinand/leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
