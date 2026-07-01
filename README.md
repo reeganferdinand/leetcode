@@ -143,6 +143,7 @@ to track my dsa solving
 | [0162-find-peak-element](https://github.com/reeganferdinand/leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/reeganferdinand/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/reeganferdinand/leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/reeganferdinand/leetcode/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -308,4 +309,8 @@ to track my dsa solving
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reeganferdinand/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/reeganferdinand/leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
