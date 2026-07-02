@@ -59,6 +59,7 @@ to track my dsa solving
 | [0022-generate-parentheses](https://github.com/reeganferdinand/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/reeganferdinand/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/reeganferdinand/leetcode/tree/master/0058-length-of-last-word) |
+| [0383-ransom-note](https://github.com/reeganferdinand/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/reeganferdinand/leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/reeganferdinand/leetcode/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/reeganferdinand/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -101,6 +102,7 @@ to track my dsa solving
 | [0128-longest-consecutive-sequence](https://github.com/reeganferdinand/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/reeganferdinand/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/reeganferdinand/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/reeganferdinand/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/reeganferdinand/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -132,6 +134,7 @@ to track my dsa solving
 | ------- |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/reeganferdinand/leetcode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/reeganferdinand/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/reeganferdinand/leetcode/tree/master/0767-reorganize-string) |
 ## Binary Search
