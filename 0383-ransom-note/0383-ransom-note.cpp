@@ -1,20 +1,18 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        unordered_map<char,int> hash;
 
-        for(auto it:magazine)
-        {
-            hash[it]++;
-        }
+        int freq[26] = {0};
 
-        for(auto it:ransomNote)
+        for(char ch : magazine)
+            freq[ch - 'a']++;
+
+        for(char ch : ransomNote)
         {
-            if(hash[it]!=0)
-            {
-                hash[it]--;
-            }
-            else return false;
+            if(freq[ch - 'a'] == 0)
+                return false;
+
+            freq[ch - 'a']--;
         }
 
         return true;
