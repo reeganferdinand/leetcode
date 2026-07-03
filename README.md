@@ -59,6 +59,7 @@ to track my dsa solving
 | [0022-generate-parentheses](https://github.com/reeganferdinand/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/reeganferdinand/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/reeganferdinand/leetcode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/reeganferdinand/leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/reeganferdinand/leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/reeganferdinand/leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/reeganferdinand/leetcode/tree/master/0392-is-subsequence) |
@@ -88,6 +89,7 @@ to track my dsa solving
 | [0019-remove-nth-node-from-end-of-list](https://github.com/reeganferdinand/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/reeganferdinand/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/reeganferdinand/leetcode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/reeganferdinand/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/reeganferdinand/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/reeganferdinand/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/reeganferdinand/leetcode/tree/master/0234-palindrome-linked-list) |
