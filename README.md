@@ -12,6 +12,7 @@ to track my dsa solving
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/reeganferdinand/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/reeganferdinand/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/reeganferdinand/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/reeganferdinand/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -100,6 +101,7 @@ to track my dsa solving
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/reeganferdinand/leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/reeganferdinand/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/reeganferdinand/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/reeganferdinand/leetcode/tree/master/0128-longest-consecutive-sequence) |
