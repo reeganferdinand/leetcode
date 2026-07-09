@@ -7,26 +7,27 @@ public:
 
         int carry = 0;
 
-        while (l1 || l2 || carry) {
+       while(l1 || l2 || carry)
+       {
+            int sum=carry;
 
-            int sum = carry;
-
-            if (l1) {
-                sum += l1->val;
-                l1 = l1->next;
+            if(l1!=nullptr)
+            {
+                sum+=l1->val;
+                l1=l1->next;
             }
 
-            if (l2) {
-                sum += l2->val;
-                l2 = l2->next;
+            if(l2!=nullptr)
+            {
+                sum+=l2->val;
+                l2=l2->next;
             }
 
-            carry = sum / 10;
+            temp->next=new ListNode(sum%10);
+            temp=temp->next;
+            carry=sum/10;
+       }
 
-            temp->next = new ListNode(sum % 10);
-            temp = temp->next;
-        }
-
-        return dummy->next;
+       return dummy->next;
     }
 };
