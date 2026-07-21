@@ -42,6 +42,7 @@ to track my dsa solving
 | [0733-flood-fill](https://github.com/reeganferdinand/leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/reeganferdinand/leetcode/tree/master/0739-daily-temperatures) |
 | [0973-k-closest-points-to-origin](https://github.com/reeganferdinand/leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/reeganferdinand/leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/reeganferdinand/leetcode/tree/master/1046-last-stone-weight) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/reeganferdinand/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1834-single-threaded-cpu](https://github.com/reeganferdinand/leetcode/tree/master/1834-single-threaded-cpu) |
@@ -88,6 +89,7 @@ to track my dsa solving
 | [0074-search-a-2d-matrix](https://github.com/reeganferdinand/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/reeganferdinand/leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/reeganferdinand/leetcode/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/reeganferdinand/leetcode/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/reeganferdinand/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
@@ -277,6 +279,7 @@ to track my dsa solving
 | [0662-maximum-width-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/reeganferdinand/leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/reeganferdinand/leetcode/tree/master/0994-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
