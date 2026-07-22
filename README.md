@@ -245,6 +245,7 @@ to track my dsa solving
 | [0200-number-of-islands](https://github.com/reeganferdinand/leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/reeganferdinand/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/reeganferdinand/leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -276,6 +277,7 @@ to track my dsa solving
 | [0104-maximum-depth-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/reeganferdinand/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/reeganferdinand/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/reeganferdinand/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/reeganferdinand/leetcode/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -296,6 +298,7 @@ to track my dsa solving
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/reeganferdinand/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/reeganferdinand/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/reeganferdinand/leetcode/tree/master/0547-number-of-provinces) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -339,4 +342,8 @@ to track my dsa solving
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/reeganferdinand/leetcode/tree/master/0278-first-bad-version) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/reeganferdinand/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
