@@ -37,6 +37,7 @@ to track my dsa solving
 | [0283-move-zeroes](https://github.com/reeganferdinand/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/reeganferdinand/leetcode/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/reeganferdinand/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/reeganferdinand/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/reeganferdinand/leetcode/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/reeganferdinand/leetcode/tree/master/0733-flood-fill) |
@@ -88,6 +89,7 @@ to track my dsa solving
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/reeganferdinand/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/reeganferdinand/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/reeganferdinand/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/reeganferdinand/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/reeganferdinand/leetcode/tree/master/0994-rotting-oranges) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/reeganferdinand/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -179,6 +181,7 @@ to track my dsa solving
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reeganferdinand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/reeganferdinand/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/reeganferdinand/leetcode/tree/master/0392-is-subsequence) |
+| [0542-01-matrix](https://github.com/reeganferdinand/leetcode/tree/master/0542-01-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -277,6 +280,7 @@ to track my dsa solving
 | [0104-maximum-depth-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/reeganferdinand/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/reeganferdinand/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/reeganferdinand/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/reeganferdinand/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/reeganferdinand/leetcode/tree/master/0733-flood-fill) |
