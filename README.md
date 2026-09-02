@@ -22,6 +22,7 @@ to track my dsa solving
 | [0040-combination-sum-ii](https://github.com/reeganferdinand/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/reeganferdinand/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/reeganferdinand/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/reeganferdinand/leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/reeganferdinand/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/reeganferdinand/leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reeganferdinand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -137,6 +138,7 @@ to track my dsa solving
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/reeganferdinand/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/reeganferdinand/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/reeganferdinand/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/reeganferdinand/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -186,6 +188,7 @@ to track my dsa solving
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/reeganferdinand/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/reeganferdinand/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/reeganferdinand/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/reeganferdinand/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/reeganferdinand/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
