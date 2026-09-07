@@ -38,6 +38,7 @@ to track my dsa solving
 | [0215-kth-largest-element-in-an-array](https://github.com/reeganferdinand/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/reeganferdinand/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0485-max-consecutive-ones](https://github.com/reeganferdinand/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/reeganferdinand/leetcode/tree/master/0496-next-greater-element-i) |
 | [0542-01-matrix](https://github.com/reeganferdinand/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/reeganferdinand/leetcode/tree/master/0560-subarray-sum-equals-k) |
