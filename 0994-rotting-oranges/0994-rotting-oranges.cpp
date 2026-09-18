@@ -2,66 +2,77 @@ class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid)
     {
-        int n=grid.size();
-        int m=grid[0].size();
+        if(grid.size()==0) return 0;
+        
+        int r=grid.size();
+        int c=grid[0].size();
 
-        int fresh=0;
+        //total oranges
+        int tot=0;
+
+        //rotten oranges
+        int cnt=0;
+
+
+        // totl time 
+
+        int time=0;
+
+        // queue for rotten oranges
+
         queue<pair<int,int>> q;
 
-        for(int i=0;i<n;i++)
+        for(int i=0;i<r;i++)
         {
-            for(int j=0;j<m;j++)
+            for(int j=0;j<c;j++)
             {
-                if(grid[i][j]==1)
-                    fresh++;
+                if(grid[i][j]!=0)
+                {
+                    tot++;
+                }
 
-                else if(grid[i][j]==2)
+                if(grid[i][j]==2) 
+                {
                     q.push({i,j});
+                }
             }
         }
 
         int dr[]={-1,0,1,0};
         int dc[]={0,1,0,-1};
 
-        int ans=0;
-
         while(!q.empty())
         {
-            int size=q.size();
-            bool changed=false;
+            int k=q.size();
 
-            for(int i=0;i<size;i++)
+            cnt+=k;
+
+            while(k--)
             {
-                auto it=q.front();
+                int rr=q.front().first;
+                int rc=q.front().second;
+
                 q.pop();
 
-                int r=it.first;
-                int c=it.second;
-
-                for(int k=0;k<4;k++)
+                for(int i=0;i<4;i++)
                 {
-                    int nr=r+dr[k];
-                    int nc=c+dc[k];
+                    int nr=rr+dr[i];
+                    int nc=rc+dc[i];
 
-                    if(nr>=0 && nr<n &&
-                       nc>=0 && nc<m &&
-                       grid[nr][nc]==1)
-                    {
-                        grid[nr][nc]=2;
-                        q.push({nr,nc});
-                        fresh--;
-                        changed=true;
-                    }
+                    if(nr<0 || nr>=r || nc<0 || nc>=c || grid[nr][nc]!=1) continue;
+
+                    grid[nr][nc]=2;
+
+                    q.push({nr,nc});
                 }
             }
 
-            if(changed)
-                ans++;
+            if(!q.empty())
+            {
+                time++;
+            }
         }
 
-        if(fresh==0)
-            return ans;
-
-        return -1;
+        return tot==cnt? time:-1;
     }
 };
