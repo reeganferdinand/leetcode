@@ -1,88 +1,83 @@
 class Solution {
 public:
     int numEnclaves(vector<vector<int>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
 
-        vector<vector<int>> vis(n,vector<int>(m,0));
+        if(grid.empty())
+            return 0;
+
+        int n = grid.size();
+        int m = grid[0].size();
+
         queue<pair<int,int>> q;
 
-        // r=0;
-
-        for(int i=0;i<m;i++)
+        // Top and bottom rows
+        for(int j = 0; j < m; j++)
         {
-            if(grid[0][i]==1)
+            if(grid[0][j] == 1)
             {
-                q.push({0,i});
-                vis[0][i]=1;
+                q.push({0, j});
+                grid[0][j] = 0;
+            }
+
+            if(grid[n-1][j] == 1)
+            {
+                q.push({n-1, j});
+                grid[n-1][j] = 0;
             }
         }
 
-        //r=n-1;
-        for(int i=0;i<m;i++)
+        // Left and right columns
+        for(int i = 0; i < n; i++)
         {
-            if(grid[n-1][i]==1)
+            if(grid[i][0] == 1)
             {
-                q.push({n-1,i});
-                vis[n-1][i]=1;
+                q.push({i, 0});
+                grid[i][0] = 0;
+            }
+
+            if(grid[i][m-1] == 1)
+            {
+                q.push({i, m-1});
+                grid[i][m-1] = 0;
             }
         }
 
-        //c=0
-        for(int i=0;i<n;i++)
-        {
-            if(grid[i][0]==1)
-            {
-                q.push({i,0});
-                vis[i][0]=1;
-            }
-        }
+        int dr[] = {-1, 0, 1, 0};
+        int dc[] = {0, 1, 0, -1};
 
-        for(int i=0;i<n;i++)
-        {
-            if(grid[i][m-1]==1)
-            {
-                q.push({i,m-1});
-                vis[i][m-1]=1;
-            }
-        }
-        int dr[]={-1,0,1,0};
-        int dc[]={0,1,0,-1};
         while(!q.empty())
         {
-            auto it=q.front();
+            int r = q.front().first;
+            int c = q.front().second;
+
             q.pop();
 
-            int r=it.first;
-            int c=it.second;
-
-            for(int i=0;i<4;i++)
+            for(int i = 0; i < 4; i++)
             {
-                int nr=r+dr[i];
-                int nc=c+dc[i];
+                int nr = r + dr[i];
+                int nc = c + dc[i];
 
-                if(nr>=0 && nr<n && nc>=0 && nc<m && grid[nr][nc]==1 && !vis[nr][nc])
+                if(nr >= 0 && nr < n &&
+                   nc >= 0 && nc < m &&
+                   grid[nr][nc] == 1)
                 {
-                    q.push({nr,nc});
-                    vis[nr][nc]=1;
+                    grid[nr][nc] = 0;
+                    q.push({nr, nc});
                 }
             }
-
         }
 
-        int ans=0;
+        int count = 0;
 
-        for(int i=0;i<n;i++)
+        for(int i = 0; i < n; i++)
         {
-            for(int j=0;j<m;j++)
+            for(int j = 0; j < m; j++)
             {
-                if(grid[i][j]==1 && vis[i][j]==0)
-                {
-                    ans++;
-                }
+                if(grid[i][j] == 1)
+                    count++;
             }
         }
 
-        return ans;
+        return count;
     }
 };
