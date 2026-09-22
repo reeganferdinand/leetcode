@@ -2,12 +2,21 @@ class Solution {
 public:
     vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
         
+        if(mat.size()==0) return mat;
+
+
         int n=mat.size();
         int m=mat[0].size();
+
         vector<vector<int>> vis(n,vector<int>(m,0));
         vector<vector<int>> dist(n,vector<int>(m,0));
 
+
+        int dr[]={-1,0,1,0};
+        int dc[]={0,1,0,-1};
+
         queue<pair<pair<int,int>,int>> q;
+
 
         for(int i=0;i<n;i++)
         {
@@ -15,41 +24,52 @@ public:
             {
                 if(mat[i][j]==0)
                 {
-                    vis[i][j]=1;
                     q.push({{i,j},0});
+                    vis[i][j]=1;
                 }
             }
         }
 
-        int dr[]={-1,0,1,0};
-        int dc[]={0,1,0,-1};
 
         while(!q.empty())
         {
-            auto it=q.front();
-            q.pop();
+            int k=q.size();
 
-            int r=it.first.first;
-            int c=it.first.second;
-
-            int d=it.second;
-            //vis[r][c]=1;
-            dist[r][c]=d;
-
-            for(int i=0;i<4;i++)
+            for(int i=0;i<k;i++)
             {
-                int nr=r+dr[i];
-                int nc=c+dc[i];
+                auto it=q.front();
+                q.pop();
 
-                if(nr>=0 && nr<n && nc>=0 && nc<m && mat[nr][nc]==1 && !vis[nr][nc])
+                int r=it.first.first;
+                int c=it.first.second;
+
+                int d=it.second;
+
+                dist[r][c]=d;
+
+
+
+                for(int i=0;i<4;i++)
                 {
-                    vis[nr][nc]=1;
-                    q.push({{nr,nc},d+1});
+                    int nr=r+dr[i];
+                    int nc=c+dc[i];
+
+                    if(nr>=0 && nr<n && nc>=0 && nc<m && !vis[nr][nc] && mat[nr][nc]==1)
+                    {
+                        q.push({{nr,nc},d+1});
+                        vis[nr][nc]=1;
+                    }
+                    else if(nr>=0 && nr<n && nc>=0 && nc<m && !vis[nr][nc] && mat[nr][nc]==0)
+                    {
+                        q.push({{nr,nc},0});
+                        vis[nr][nc]=1;
+                    }
+
                 }
             }
         }
 
-
         return dist;
+        
     }
 };
