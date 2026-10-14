@@ -247,6 +247,7 @@ to track my dsa solving
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/reeganferdinand/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -290,6 +291,7 @@ to track my dsa solving
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/reeganferdinand/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/reeganferdinand/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -343,6 +345,7 @@ to track my dsa solving
 | [0295-find-median-from-data-stream](https://github.com/reeganferdinand/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/reeganferdinand/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/reeganferdinand/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/reeganferdinand/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0767-reorganize-string](https://github.com/reeganferdinand/leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/reeganferdinand/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/reeganferdinand/leetcode/tree/master/1046-last-stone-weight) |
@@ -366,10 +369,12 @@ to track my dsa solving
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/reeganferdinand/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/reeganferdinand/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/reeganferdinand/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/reeganferdinand/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Merge Sort
 |  |
 | ------- |
@@ -416,4 +421,8 @@ to track my dsa solving
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/reeganferdinand/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/reeganferdinand/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
